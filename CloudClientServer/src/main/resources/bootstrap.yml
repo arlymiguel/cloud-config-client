@@ -2,7 +2,7 @@
 spring:
   application:
     name: microservices-client
-    
+
   cloud:
     config:
       uri:

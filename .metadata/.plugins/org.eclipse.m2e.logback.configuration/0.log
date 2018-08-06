@@ -108,3 +108,73 @@
 2018-08-05 23:18:32,375 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-08-05 23:18:32,380 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-05 23:18:32,380 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:43:48,811 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:43:48,811 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:43:48,812 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:43:48,815 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:43:48,815 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:43:55,071 [Worker-38: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer
+2018-08-05 23:43:55,072 [Worker-38: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2018-08-05 23:43:57,792 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:43:57,793 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:43:57,794 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:43:57,804 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:43:57,805 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:44:11,663 [Worker-43: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer
+2018-08-05 23:44:11,663 [Worker-43: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2018-08-05 23:44:13,443 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:44:13,444 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:44:13,445 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:44:13,451 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:44:13,451 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:44:21,578 [Worker-45: Launching Executing install in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer
+2018-08-05 23:44:21,578 [Worker-45: Launching Executing install in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-08-05 23:44:24,580 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:44:24,580 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:44:24,582 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:44:24,585 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:44:24,585 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:45:09,359 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:09,361 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:09,362 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:09,370 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:09,370 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:45:11,585 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:11,586 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:11,587 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:11,591 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:11,591 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:45:32,642 [Worker-44: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer
+2018-08-05 23:45:32,642 [Worker-44: Launching Executing clean in D__ARLY_PROYECTS_poc-belatrix_cloud-config-client_CloudClientServer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2018-08-05 23:45:34,989 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:34,990 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:34,991 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:34,998 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:34,998 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:45:40,356 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-05 23:45:41,188 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yape:CloudClientServer:0.0.1-SNAPSHOT @ D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\pom.xml.
+2018-08-05 23:45:41,942 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CloudClientServer/src/main/java
+2018-08-05 23:45:41,942 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CloudClientServer/src/main/resources
+2018-08-05 23:45:41,942 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CloudClientServer/src/main/resources
+2018-08-05 23:45:41,942 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CloudClientServer/src/test/java
+2018-08-05 23:45:42,133 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-08-05 23:45:44,110 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:44,111 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:44,123 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:45:44,132 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:45:44,132 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:51:07,679 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:07,684 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 23:51:07,686 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:51:07,694 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:07,695 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:51:22,355 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:22,356 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 23:51:22,358 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:51:22,366 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:22,366 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources
+2018-08-05 23:51:25,365 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:25,365 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-05 23:51:25,368 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-05 23:51:25,372 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-05 23:51:25,373 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ARLY\PROYECTS\poc-belatrix\cloud-config-client\CloudClientServer\src\test\resources

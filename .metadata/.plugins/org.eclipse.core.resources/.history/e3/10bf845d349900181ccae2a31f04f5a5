@@ -1,0 +1,11 @@
+# git: microservices-client.properties
+spring:
+  application:
+    name: microservices-client
+
+management.sercurity.enable: false
+
+  cloud:
+    config:
+      uri:
+      - http://localhost:8888
