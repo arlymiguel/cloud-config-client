@@ -1,0 +1,4 @@
+# git: microservices-client.properties
+spring:
+  application:
+    name: microservices-client

@@ -1,0 +1,15 @@
+package com.yape;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ServiceEndPoint {
+
+	@Value("${name:NA}")
+	private String name;
+	
+	@Value("${message:NA}")
+	private String message;
+	
+}

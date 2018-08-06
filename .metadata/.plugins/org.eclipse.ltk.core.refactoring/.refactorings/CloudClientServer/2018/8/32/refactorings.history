@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CloudClientServer/src/main/resources/boostrap.yml&apos; to &apos;bootstrap.yml&apos;" description="Rename resource &apos;boostrap.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/boostrap.yml" name="bootstrap.yml" stamp="1533527688785" updateReferences="true"/>
+</session>
